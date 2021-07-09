@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![cinob's github stats](https://github-readme-stats.vercel.app/api?username=cinob&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=cinob" />
